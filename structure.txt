@@ -9,7 +9,6 @@
 ├── jest.config.js
 ├── jest.setup.js
 ├── metro.config.js
-├── package-lock.json
 ├── package.json
 ├── src
 │   ├── assets
@@ -38,6 +37,8 @@
 │   ├── hooks
 │   │   └── shared
 │   │       └── useIcons.ts
+│   ├── key
+│   │   └── Untitled
 │   ├── models
 │   │   ├── Crypto.ts
 │   │   └── types
@@ -65,4 +66,4 @@
 ├── tsconfig.json
 └── yarn.lock
 
-35 directories, 31 files
+36 directories, 31 files
