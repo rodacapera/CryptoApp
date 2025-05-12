@@ -1,0 +1,68 @@
+.
+├── App.tsx
+├── README.md
+├── __tests__
+│   └── App.test.tsx
+├── app.json
+├── babel.config.js
+├── index.js
+├── jest.config.js
+├── jest.setup.js
+├── metro.config.js
+├── package-lock.json
+├── package.json
+├── src
+│   ├── assets
+│   │   ├── default_logo.png
+│   │   └── logo.png
+│   ├── components
+│   │   ├── filters
+│   │   │   ├── hooks
+│   │   │   ├── index.tsx
+│   │   │   ├── styles
+│   │   │   └── types
+│   │   ├── listButton
+│   │   │   ├── index.tsx
+│   │   │   ├── styles
+│   │   │   └── types
+│   │   ├── loadingIndicator
+│   │   │   ├── index.tsx
+│   │   │   └── styles
+│   │   └── searchInput
+│   │       ├── index.tsx
+│   │       ├── styles
+│   │       └── types
+│   ├── config
+│   │   ├── apiRoutes.ts
+│   │   └── constants.ts
+│   ├── hooks
+│   │   └── shared
+│   │       └── useIcons.ts
+│   ├── models
+│   │   ├── Crypto.ts
+│   │   └── types
+│   │       └── cryptoTypes.ts
+│   ├── navigation
+│   │   ├── NavigationProvider.tsx
+│   │   └── types
+│   │       └── navigationTypes.ts
+│   ├── screens
+│   │   ├── detailScreen
+│   │   │   ├── components
+│   │   │   ├── hooks
+│   │   │   ├── index.tsx
+│   │   │   ├── styles
+│   │   │   └── types
+│   │   └── homeScreen
+│   │       ├── hooks
+│   │       ├── index.tsx
+│   │       └── styles
+│   └── services
+│       ├── CryptoService.ts
+│       └── types
+│           └── cryptoServiceTypes.ts
+├── structure.txt
+├── tsconfig.json
+└── yarn.lock
+
+35 directories, 31 files
